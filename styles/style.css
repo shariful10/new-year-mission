@@ -1,5 +1,5 @@
 * {
-    /* margin: 0; */
+    margin: 0;
     font-family: 'Work Sans', sans-serif;
     /* font-family: 'Inter', sans-serif; */
 }
@@ -33,7 +33,7 @@ p {
     margin: 24px auto 32px;
 }
 
-.header-btn {
+.primary-btn {
     border: 0;
     border-radius: 5px;
     font-size: 20px;
@@ -84,7 +84,7 @@ i.fa-solid.fa-check {
     gap: 86px;
     display: flex;
     text-align: center;
-    padding: 50px 415px;
+    padding: 50px 380px;
 }
 
 .plan-title {
@@ -92,4 +92,36 @@ i.fa-solid.fa-check {
     font-size: 30px;
     font-weight: 700;
     margin: 24px auto 16px;
+}
+
+/* Call Now Style */
+
+.call-now {
+    padding: 130px 230px;
+}
+
+.call-now-details {
+    border: 0;
+    border-radius: 8px;
+    padding: 58px 615px 58px 65px;
+    /* opacity: .5; */
+    background: linear-gradient(90deg,
+            rgb(0, 95, 172),
+            rgba(0, 95, 172, 0)),
+        /* bottom, image */
+        url('../images/watch.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.call-now-details .section-title {
+    color: #FFFFFF;
+    margin-bottom: 24px;
+
+}
+
+.call-now-details .primary-btn {
+    color: #005FAC;
+    background-color: #fff;
 }
