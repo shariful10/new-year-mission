@@ -75,6 +75,19 @@ i.fa-solid.fa-check {
     margin-bottom: 8px;
 }
 
+/* About Us Style */
+
+.about-us {
+    display: flex;
+    gap: 390px;
+    padding: 130px 250px
+}
+
+.about-container {
+    text-align: left;
+    padding-top: 275px;
+}
+
 /* Plan Section Style */
 
 .plan .section-title {
