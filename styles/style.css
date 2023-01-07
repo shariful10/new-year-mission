@@ -111,13 +111,13 @@ i.fa-solid.fa-check {
 /* Call Now Style */
 
 .call-now {
-    padding: 130px 330px;
+    padding: 130px 280px;
 }
 
 .call-now-details {
     border: 0;
     border-radius: 8px;
-    padding: 65px 615px 65px 65px;
+    padding: 65px 675px 65px 65px;
     /* opacity: .5; */
     background: linear-gradient(90deg,
         rgb(0, 95, 172),
@@ -142,10 +142,10 @@ i.fa-solid.fa-check {
 /* Footer Section Style */
 
 footer{
-    gap: 374px;
+    gap: 480px;
     display: flex;
     background-color: #151414;
-    padding: 130px 330px;
+    padding: 130px 275px;
 }
 .footer-title{
     font-size: 45px;
