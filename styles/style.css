@@ -1,12 +1,13 @@
 * {
-    margin: 0;
+    /* margin: 0; */
     font-family: 'Work Sans', sans-serif;
     /* font-family: 'Inter', sans-serif; */
 }
-p{
+
+p {
     color: #444343;
     font-weight: 400;
-font-size: 16px;
+    font-size: 16px;
 }
 
 /* Header Style */
@@ -44,42 +45,49 @@ font-size: 16px;
 
 /* Failures Section Style */
 
-.failures{
+.failures {
     display: flex;
     gap: 85px;
     padding: 130px 250px
 }
-.failures-container{
+
+.failures-container {
     text-align: left;
-    padding-top: 240px;
+    padding-top: 275px;
 }
-.section-title{
+
+.section-title {
     color: #151414;
     font-weight: 700;
-font-size: 40px;
+    font-size: 40px;
 }
-.section-description{
+
+.section-description {
     margin: 24px auto 16px;
 }
+
 i.fa-solid.fa-check {
     color: #16D887;
 }
-.section-details-items{
+
+.section-details-items {
     margin-bottom: 8px;
 }
 
 /* Plan Section Style */
 
-.plan .section-title{
+.plan .section-title {
     text-align: center;
 }
-.plan-container{
+
+.plan-container {
     gap: 86px;
     display: flex;
     text-align: center;
-    padding: 50px 220px;
+    padding: 50px 415px;
 }
-.plan-title{
+
+.plan-title {
     color: #151414;
     font-size: 30px;
     font-weight: 700;
