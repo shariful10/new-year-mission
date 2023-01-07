@@ -14,10 +14,11 @@ p {
 
 .header {
     text-align: right;
-    padding: 150px 200px 150px 845px;
+    padding: 200px 200px 200px 845px;
     background-image: url('../images/banner/banner2.png');
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .header-title {
