@@ -1,7 +1,6 @@
 * {
     margin: 0;
     font-family: 'Work Sans', sans-serif;
-    /* font-family: 'Inter', sans-serif; */
 }
 
 p {
@@ -80,7 +79,7 @@ i.fa-solid.fa-check {
 .about-us {
     display: flex;
     gap: 366px;
-    padding: 130px 250px
+    padding: 0px 250px
 }
 
 .about-container {
@@ -89,6 +88,10 @@ i.fa-solid.fa-check {
 }
 
 /* Plan Section Style */
+
+section.plan {
+    padding-top: 130px;
+}
 
 .plan .section-title {
     text-align: center;
