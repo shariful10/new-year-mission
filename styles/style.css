@@ -97,13 +97,13 @@ i.fa-solid.fa-check {
 /* Call Now Style */
 
 .call-now {
-    padding: 130px 230px;
+    padding: 130px 330px;
 }
 
 .call-now-details {
     border: 0;
     border-radius: 8px;
-    padding: 58px 615px 58px 65px;
+    padding: 65px 615px 65px 65px;
     /* opacity: .5; */
     background: linear-gradient(90deg,
             rgb(0, 95, 172),
@@ -117,7 +117,7 @@ i.fa-solid.fa-check {
 
 .call-now-details .section-title {
     color: #FFFFFF;
-    margin-bottom: 24px;
+    margin-bottom: 30px;
 
 }
 
