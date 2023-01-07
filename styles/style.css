@@ -129,7 +129,7 @@ i.fa-solid.fa-check {
 /* Footer Section Style */
 
 footer{
-    gap: 440px;
+    gap: 374px;
     display: flex;
     background-color: #151414;
     padding: 130px 330px;
@@ -144,6 +144,12 @@ footer{
     font-size: 16px;
     font-weight: 400;
     margin: 16px auto 24px;
+}
+
+.social-icon img {
+    width: 46px;
+    height: auto;
+    margin-right: 8px;
 }
 
 .contact-info{
