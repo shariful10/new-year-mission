@@ -126,3 +126,44 @@ i.fa-solid.fa-check {
     color: #005FAC;
     background-color: #fff;
 }
+
+/* Footer Section Style */
+
+footer{
+    gap: 220px;
+    display: flex;
+    background-color: #151414;
+    padding: 130px 330px;
+}
+.footer-title{
+    font-size: 45px;
+    font-weight: 700;
+    color: #F8F8F8;
+}
+.footer-description{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 16px auto 24px;
+}
+
+.contact-info{
+    margin-bottom: 32px;
+}
+.contact-info p{
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+.contact-title{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+footer input[type="email"]{
+    border: 0;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    padding: 22px 158px 22px 22px;
+}
