@@ -14,20 +14,20 @@ p {
 .header {
     text-align: right;
     padding: 200px 200px 200px 845px;
-    background-image: url('../images/banner/banner3.png');
+    background-image: url('../images/banner/banner2.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .header-title {
-    color: #FFFFFF;
+    color: #151414;
     font-weight: 700;
     font-size: 65px;
 }
 
 .header-description {
-    color: #FFFFFF;
+    color: #151414;
     font-size: 16px;
     font-weight: 400;
     margin: 24px auto 32px;
@@ -39,8 +39,8 @@ p {
     font-size: 20px;
     font-weight: 600;
     padding: 20px 25px;
-    color: #005FAC;
-    background-color: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #005FAC;
 }
 
 /* Failures Section Style */
