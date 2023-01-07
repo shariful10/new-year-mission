@@ -107,9 +107,8 @@ i.fa-solid.fa-check {
     padding: 65px 615px 65px 65px;
     /* opacity: .5; */
     background: linear-gradient(90deg,
-            rgb(0, 95, 172),
-            rgba(0, 95, 172, 0)),
-        /* bottom, image */
+        rgb(0, 95, 172),
+        rgba(0, 95, 172, 0)),
         url('../images/watch.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -130,7 +129,7 @@ i.fa-solid.fa-check {
 /* Footer Section Style */
 
 footer{
-    gap: 445px;
+    gap: 440px;
     display: flex;
     background-color: #151414;
     padding: 130px 330px;
