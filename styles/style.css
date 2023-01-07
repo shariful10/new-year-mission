@@ -165,5 +165,6 @@ footer input[type="email"]{
     border: 0;
     border-radius: 8px;
     margin-bottom: 16px;
+    outline: none;
     padding: 22px 158px 22px 22px;
 }
