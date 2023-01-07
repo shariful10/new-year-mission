@@ -84,7 +84,7 @@ i.fa-solid.fa-check {
 
 .about-container {
     text-align: right;
-    padding-top: 275px;
+    padding-top: 200px;
 }
 
 /* Plan Section Style */
@@ -145,7 +145,7 @@ section.plan {
 /* Footer Section Style */
 
 footer {
-    gap: 480px;
+    gap: 470px;
     display: flex;
     background-color: #151414;
     padding: 130px 275px;
@@ -185,7 +185,7 @@ footer {
     color: #FFFFFF;
     font-size: 25px;
     font-weight: 600;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 footer input[type="email"] {
