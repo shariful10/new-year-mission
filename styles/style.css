@@ -120,8 +120,8 @@ i.fa-solid.fa-check {
     padding: 65px 675px 65px 65px;
     /* opacity: .5; */
     background: linear-gradient(90deg,
-        rgb(0, 95, 172),
-        rgba(0, 95, 172, 0)),
+            rgb(0, 95, 172),
+            rgba(0, 95, 172, 0)),
         url('../images/watch.png');
     background-position: center;
     background-repeat: no-repeat;
@@ -141,18 +141,20 @@ i.fa-solid.fa-check {
 
 /* Footer Section Style */
 
-footer{
+footer {
     gap: 480px;
     display: flex;
     background-color: #151414;
     padding: 130px 275px;
 }
-.footer-title{
+
+.footer-title {
     font-size: 45px;
     font-weight: 700;
     color: #F8F8F8;
 }
-.footer-description{
+
+.footer-description {
     color: #FFFFFF;
     font-size: 16px;
     font-weight: 400;
@@ -165,21 +167,25 @@ footer{
     margin-right: 8px;
 }
 
-.contact-info{
+/* Footer Contact Part */
+
+.contact-info {
     margin-bottom: 32px;
 }
-.contact-info p{
+
+.contact-info p {
     color: #FFFFFF;
     margin-bottom: 16px;
 }
-.contact-title{
+
+.contact-title {
     color: #FFFFFF;
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 30px;
 }
 
-footer input[type="email"]{
+footer input[type="email"] {
     border: 2px solid #F3F3F3;
     border-radius: 8px;
     margin-bottom: 16px;
