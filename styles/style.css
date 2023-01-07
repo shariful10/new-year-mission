@@ -36,7 +36,7 @@ p {
 
 .primary-btn {
     border: 0;
-    border-radius: 5px;
+    border-radius: 8px;
     font-size: 20px;
     font-weight: 600;
     padding: 20px 25px;
@@ -130,7 +130,7 @@ i.fa-solid.fa-check {
 /* Footer Section Style */
 
 footer{
-    gap: 220px;
+    gap: 445px;
     display: flex;
     background-color: #151414;
     padding: 130px 330px;
@@ -162,9 +162,12 @@ footer{
 }
 
 footer input[type="email"]{
-    border: 0;
+    border: 2px solid #F3F3F3;
     border-radius: 8px;
     margin-bottom: 16px;
+    color: #F3F3F3;
+    background: rgba(0, 0, 0, 0);
+    font-size: 18px;
     outline: none;
     padding: 22px 158px 22px 22px;
 }
